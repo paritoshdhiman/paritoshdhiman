@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Paritosh Dhiman — Turning signals into systems</title>
+  <desc id="desc">An amber signal passes through a series of outlined processing blocks on a charcoal background. Energy, data, and AI.</desc>
+  <rect width="1200" height="430" fill="#151a1d"/>
+  <text x="58" y="76" fill="#f6f3ea" font-family="Georgia,serif" font-size="36">Paritosh Dhiman</text>
+  <path d="M58 103H1142" stroke="#465053"/>
+  <text x="55" y="209" fill="#f6f3ea" font-family="Georgia,serif" font-size="86" letter-spacing="-2">Turning signals</text>
+  <text x="55" y="302" fill="#f5b841" font-family="Georgia,serif" font-size="86" letter-spacing="-2">into systems.</text>
+  <g fill="none" stroke-width="2">
+    <path d="M796 218H816L831 189L846 245L861 161L876 273L891 218H915" stroke="#f5b841" stroke-linejoin="round"/>
+    <rect x="915" y="187" width="62" height="62" stroke="#f6f3ea"/>
+    <path d="M977 218H1004" stroke="#f5b841"/>
+    <rect x="1004" y="187" width="62" height="62" stroke="#f6f3ea"/>
+    <path d="M1066 218H1092" stroke="#f5b841"/>
+    <rect x="1092" y="187" width="50" height="62" fill="#f5b841" stroke="#f5b841"/>
+    <path d="M931 207H961M931 218H950M931 229H957M1020 207H1050M1020 218H1039M1020 229H1046" stroke="#f6f3ea"/>
+    <path d="M1106 218L1115 227L1129 207" stroke="#151a1d" stroke-width="3"/>
+  </g>
+  <path d="M58 348H1142" stroke="#465053"/>
+  <text x="58" y="391" fill="#f6f3ea" font-family="Arial,sans-serif" font-size="22">ENERGY / DATA / AI</text>
+  <text x="1142" y="391" fill="#f5b841" text-anchor="end" font-family="Arial,sans-serif" font-size="20">paritoshdhiman</text>
+</svg>
