@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">DELTA — Dynamic Energy Load and Trading Analytics</title>
+<desc id="desc">An orchestrator connects four AI specialists: market analyst, dispatch optimizer, compliance officer, and risk manager.</desc>
+<rect width="1200" height="340" fill="#151a1d"/>
+<text x="48" y="111" fill="#f5b841" font-family="Georgia,serif" font-size="96" letter-spacing="-2">DELTA</text>
+<text x="52" y="157" fill="#f6f3ea" font-family="Arial,sans-serif" font-size="24">Dynamic Energy Load</text>
+<text x="52" y="192" fill="#f6f3ea" font-family="Arial,sans-serif" font-size="24">&amp; Trading Analytics</text>
+<path d="M500 45V252" stroke="#465053"/>
+<g fill="none" stroke="#f5b841" stroke-width="2">
+<rect x="695" y="45" width="210" height="52" rx="5"/>
+<path d="M800 97V130M650 130H1020M650 130V158M1020 130V158M650 210V235M1020 210V235"/>
+<rect x="545" y="158" width="210" height="52" rx="5"/><rect x="895" y="158" width="255" height="52" rx="5"/>
+<rect x="545" y="235" width="210" height="52" rx="5"/><rect x="895" y="235" width="255" height="52" rx="5"/>
+</g>
+<g fill="#f6f3ea" font-family="Arial,sans-serif" font-size="21" text-anchor="middle">
+<text x="800" y="79">Orchestrator</text><text x="650" y="192">Market Analyst</text><text x="1022" y="192">Dispatch Optimizer</text><text x="650" y="269">Risk Manager</text><text x="1022" y="269">Compliance Officer</text>
+</g>
+<text x="52" y="313" fill="#f5b841" font-family="Arial,sans-serif" font-size="18">Python / Streamlit / Amazon Bedrock / AgentCore</text>
+</svg>
