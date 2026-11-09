@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I’m Paritosh Dhiman</title>
+  <desc id="desc">A personal welcome from Paritosh Dhiman, with an amber signal connecting into a system on charcoal. Energy, data, and AI.</desc>
+  <rect width="1200" height="510" fill="#151a1d"/>
+  <text x="58" y="83" fill="#f6f3ea" font-family="Georgia,serif" font-size="32">Welcome to my corner of GitHub.</text>
+  <path d="M58 121H1142" stroke="#465053"/>
+  <text x="55" y="229" fill="#f6f3ea" font-family="Georgia,serif" font-size="99" letter-spacing="-3">Hi, I’m</text>
+  <text x="55" y="332" fill="#f5b841" font-family="Georgia,serif" font-size="99" letter-spacing="-3">Paritosh Dhiman.</text>
+  <g fill="none" stroke="#f5b841" stroke-width="2">
+    <path d="M0 401H58L71 390L84 416L97 374L110 429L123 394L136 401H178L191 387L204 415L217 368L230 434L243 388L256 401H380L430 378H590L640 401H804"/>
+    <path d="M380 401L430 424H590L640 401M804 401L849 378H944L989 401H1200M804 401L849 424H944L989 401"/>
+  </g>
+  <g fill="#151a1d" stroke="#f5b841" stroke-width="2"><circle cx="380" cy="401" r="5"/><circle cx="640" cy="401" r="5"/><circle cx="804" cy="401" r="5"/><circle cx="989" cy="401" r="5"/></g>
+  <path d="M58 449H1142" stroke="#465053"/>
+  <text x="58" y="485" fill="#f6f3ea" font-family="Arial,sans-serif" font-size="22">ENERGY / DATA / AI</text>
+  <text x="1142" y="485" fill="#f5b841" text-anchor="end" font-family="Arial,sans-serif" font-size="20">paritoshdhiman</text>
+</svg>
