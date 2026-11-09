@@ -1,5 +1,5 @@
 <picture>
-  <img src="assets/header.svg" alt="Paritosh Dhiman — Turning signals into systems. Energy, data, and AI." width="100%">
+  <img src="assets/header-signal.svg" alt="Paritosh Dhiman — Turning signals into systems. Energy, data, and AI." width="100%">
 </picture>
 
 # Building where energy meets software.
