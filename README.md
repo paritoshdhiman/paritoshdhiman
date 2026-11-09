@@ -1,42 +1,42 @@
 <picture>
-  <img src="assets/header-signal.svg" alt="Paritosh Dhiman — Turning signals into systems. Energy, data, and AI." width="100%">
+  <img src="assets/hello.svg" alt="Hi, I’m Paritosh Dhiman. Welcome to my corner of GitHub. Energy, data, and AI." width="100%">
 </picture>
 
-# Building where energy meets software.
+# A little energy. A lot of Python.
 
-I work with Python, operational data, and AI agents to turn complex energy problems into tools you can actually use.
+I’m Paritosh. I build with Python, operational data, and AI agents at the intersection of energy and software.
+
+This is my workbench: streaming data, exploring signals, simulating operations, and turning complex problems into tools you can actually use.
 
 **Energy analytics · Applied AI · Data tooling**
 
-[Explore my repositories](https://github.com/paritoshdhiman?tab=repositories) · [Start with DELTA](https://github.com/paritoshdhiman/table12_hackathon)
+[Take a look around](https://github.com/paritoshdhiman?tab=repositories) · [Explore DELTA](https://github.com/paritoshdhiman/table12_hackathon#readme)
 
 ---
 
-## Featured: DELTA
+## A few things I’ve built
+
+### DELTA
 
 [![DELTA — energy analytics with four specialist AI agents](assets/delta.svg)](https://github.com/paritoshdhiman/table12_hackathon#readme)
 
-**Dynamic Energy Load & Trading Analytics**
-
-An energy trading dashboard that brings market analysis, plant dispatch, scenario simulation, and compliance into one workspace. A multi-agent AI system adds specialist perspectives on markets, dispatch, compliance, and risk.
+**Dynamic Energy Load & Trading Analytics** brings market analysis, plant dispatch, scenario simulation, and compliance into one workspace, with specialist AI agents for markets, dispatch, compliance, and risk.
 
 Built for an AWS hackathon with **Python · Streamlit · Amazon Bedrock · AgentCore**.
 
-[Explore the project →](https://github.com/paritoshdhiman/table12_hackathon#readme)
+[Step inside DELTA →](https://github.com/paritoshdhiman/table12_hackathon#readme)
 
-## More from the workbench
+### More experiments from the workbench
 
-| Project | What you'll find |
-| :--- | :--- |
-| [**Streamer Screamer**](https://github.com/paritoshdhiman/streamer_screamer) | A Streamlit interface for streaming tabular data to TCP clients with Python's async networking. |
-| [**Dispatch Export Reader**](https://github.com/paritoshdhiman/dispatch_export_reader) | Tools to normalize, compare, and explore dispatch exports. |
-| [**ProppantIQ / Fracsim**](https://github.com/paritoshdhiman/fracsim) | A Streamlit simulation and analysis tool for proppant concentration, pumped totals, and operational signals. |
+- [**Streamer Screamer**](https://github.com/paritoshdhiman/streamer_screamer) — tabular data on the move, with Streamlit, TCP clients, and Python’s async networking.
+- [**Dispatch Export Reader**](https://github.com/paritoshdhiman/dispatch_export_reader) — normalize, compare, and explore dispatch exports.
+- [**ProppantIQ / Fracsim**](https://github.com/paritoshdhiman/fracsim) — simulate proppant concentration and explore pumped totals and operational signals.
 
-## Tools I reach for
+## My usual ingredients
 
 **Python** / **pandas** / **NumPy** / **Streamlit** / **Plotly**  
 **AWS Bedrock** / **AgentCore** / **asyncio** / **APIs**
 
 ---
 
-**From raw signals to useful decisions.**
+Thanks for stopping by. [Find something to explore →](https://github.com/paritoshdhiman?tab=repositories)
