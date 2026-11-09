@@ -14,6 +14,8 @@ I work with Python, operational data, and AI agents to turn complex energy probl
 
 ## Featured: DELTA
 
+[![DELTA — energy analytics with four specialist AI agents](assets/delta.svg)](https://github.com/paritoshdhiman/table12_hackathon#readme)
+
 **Dynamic Energy Load & Trading Analytics**
 
 An energy trading dashboard that brings market analysis, plant dispatch, scenario simulation, and compliance into one workspace. A multi-agent AI system adds specialist perspectives on markets, dispatch, compliance, and risk.
